@@ -1,0 +1,23 @@
+.catergory-card {
+  height: 290px;
+  padding: 10px;
+  text-align: justify;
+  background-color: rgb(248, 241, 218);
+}
+.catergory-card:hover {
+  transition: 0.5s;
+  transform: rotate(-5deg);
+}
+.catergory-card img {
+  height: 100px;
+}
+.catergory-card p {
+  text-align: justify;
+
+}
+
+@media only screen and (max-width: 600px) {
+  .catergory-card {
+    height: 100%;
+  }
+}

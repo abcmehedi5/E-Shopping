@@ -1,0 +1,31 @@
+[
+    {
+      "_id": "001",
+      "name": "Electronics",
+      "slug": "electronics",
+      "image": "https://media.istockphoto.com/id/513631128/photo/set-of-household-kitchen-appliances.jpg?s=612x612&w=0&k=20&c=PCG3HlVbWSx1Iotlz0z1sN1AUgA7xx7pQFLqLcTMk8M=",
+      "description": "Shop for the latest electronics including smartphones, laptops."
+    },
+    {
+      "_id": "002",
+      "name": "Clothing",
+      "slug": "clothing",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjHpQOJSdbSmF5ZDXzWO6oMR2_J5eONdzL6nq38V3zGIdYyQUqHJjonilTToHxd7Rw_k&usqp=CAU",
+      "description": "Find the latest fashion trends for men, women."
+
+    },
+    {
+      "_id": "003",
+      "name": "Home & Garden",
+      "slug": "home-garden",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4zMjb0Mj_4OoHlDqse8WEGL6-3HuAuZnVkN5kJ6_-IdUS_p1DIfokBNcn1nJpQGqyUPE&usqp=CAU",
+      "description": "Get everything you need to beautify your home and garden."
+    },
+    {
+      "_id": "004",
+      "name": "Sports & Outdoors",
+      "slug": "sports-outdoors",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-TfjHFo3yj5hb2aJsufFdutHz4fKuCnFl-bY15S14xNziYY5vgurCHgxT2q1M7kr4dE&usqp=CAU",
+      "description": "Find everything you need to stay active and enjoy "
+    }
+  ]

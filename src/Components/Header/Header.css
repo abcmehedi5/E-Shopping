@@ -1,0 +1,9 @@
+.carousel-item img{
+    height: 400px;
+    border-radius: 10px;
+}
+
+.carousel-item{
+    background-color: #fdfdfa;
+    padding: 6px;
+}

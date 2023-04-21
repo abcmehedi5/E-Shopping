@@ -1,0 +1,17 @@
+.menuli li a {
+  text-decoration: none;
+  font-size: 18px;
+  color: rgb(69, 36, 253);
+}
+.cartBtn {
+  border: none;
+  background: none;
+}
+.nav-right i {
+  color: #41403f;
+}
+.navbar{
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
